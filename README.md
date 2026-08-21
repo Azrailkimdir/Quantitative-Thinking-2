@@ -83,8 +83,9 @@ Small changes in gravity can create very different worlds.
 
 Project Files
 ---
-- Gravity_Analysis [Gravity_Analysis](Launch_Angle_Analysis.pdf)
-- Gravity_Comparison [Gravity_Comparison](Gravity_Comparison.png)
+- Launch Angle Analysis Report
+- Launch Angle Visualization
+- Engineering Notebook
 
 Author
 
