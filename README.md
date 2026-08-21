@@ -1,5 +1,3 @@
-Quantitative Thinking #2
----
 ## Project Objective
 
 The purpose of this project is to explore how gravity affects weight on different worlds using mathematics, Excel, and space science fundamentals.
