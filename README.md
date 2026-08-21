@@ -30,26 +30,26 @@ Although a person's mass remains constant, weight changes significantly dependin
 
 For example:
 ---
--A person weighs the most on Earth.
--The same person weighs much less on the Moon.
--Mars provides an intermediate environment between Earth and the Moon.
+- A person weighs the most on Earth.
+- The same person weighs much less on the Moon.
+- Mars provides an intermediate environment between Earth and the Moon.
 
 Space Science Concepts
 ---
--Gravity
--Planetary Science
--Lunar Science
--Space Exploration
--Mathematical Modeling
+- Gravity
+- Planetary Science
+- Lunar Science
+- Space Exploration
+- Mathematical Modeling
 
 Skills Demonstrated
 ---
--Quantitative Thinking
--Applied Mathematics
--Space Science
--Excel Analysis
--Data Visualization
--Scientific Reasoning
+- Quantitative Thinking
+- Applied Mathematics
+- Space Science
+- Excel Analysis
+- Data Visualization
+- Scientific Reasoning
 
 What I Learned
 ---
@@ -61,11 +61,11 @@ This helped me better understand why astronauts experience different physical co
 
 Future Improvements
 ---
--Jupiter Gravity Comparison
--Planetary Escape Velocity Analysis
--Moon vs Earth Projectile Motion
--Gravity Effects on Rocket Flight
--Python-Based Gravity Simulation
+- Jupiter Gravity Comparison
+- Planetary Escape Velocity Analysis
+- Moon vs Earth Projectile Motion
+- Gravity Effects on Rocket Flight
+- Python-Based Gravity Simulation
 
 Engineering Notes
 ---
