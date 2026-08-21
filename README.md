@@ -24,9 +24,13 @@ Weight = Mass × Gravity
 
 Key Findings
 ---
-This analysis compares how the same object experiences different weights under different gravitational environments.
+The analysis showed that weight changes significantly depending on gravity.
 
-Although a person's mass remains constant, weight changes significantly depending on the strength of gravity.
+Although a person's mass remains the same, weight is different on Earth, the Moon, and Mars.
+
+The Moon produced the lowest weight values because of its much weaker gravity, while Earth produced the highest.
+
+The results highlighted how planetary environments can influence movement, exploration, and engineering design.
 
 For example:
 ---
@@ -83,7 +87,6 @@ Project Files
 ---
 - Gravity_Analysis [Gravity_Analysis](Launch_Angle_Analysis.pdf)
 - Gravity_Comparison [Gravity_Comparison](Gravity_Comparison.png)
-- Engineering Notes [Engineering Notes](Quantitative_Thinking_2_Engineering_Notebook.pdf)
 
 Author
 
