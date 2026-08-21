@@ -1,18 +1,15 @@
 Quantitative Thinking #2
 ---
-
 ## Project Objective
 
 The purpose of this project is to explore how gravity affects weight on different worlds using mathematics, Excel, and space science fundamentals.
 
 ---
-
 ## Research Question
 
 How does a person's weight change on Earth, the Moon, and Mars?
 
 ---
-
 ## Analysis Parameters
 
 Gravitational Acceleration:
@@ -31,14 +28,12 @@ This analysis compares how the same object experiences different weights under d
 
 Although a person's mass remains constant, weight changes significantly depending on the strength of gravity.
 
----
 For example:
-
+---
 -A person weighs the most on Earth.
 -The same person weighs much less on the Moon.
 -Mars provides an intermediate environment between Earth and the Moon.
 
----
 Space Science Concepts
 ---
 -Gravity
@@ -66,7 +61,6 @@ This helped me better understand why astronauts experience different physical co
 
 Future Improvements
 ---
-
 -Jupiter Gravity Comparison
 -Planetary Escape Velocity Analysis
 -Moon vs Earth Projectile Motion
@@ -86,6 +80,7 @@ This project helped me better understand how planetary environments influence mo
 Small changes in gravity can create very different worlds.
 
 Project Files
+---
 Gravity_Analysis.xlsx
 Gravity_Comparison.png
 Quantitative_Thinking_2_Engineering_Notebook.pdf
