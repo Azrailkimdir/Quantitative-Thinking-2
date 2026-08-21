@@ -83,9 +83,9 @@ Small changes in gravity can create very different worlds.
 
 Project Files
 ---
-- Launch Angle Analysis Report
-- Launch Angle Visualization
-- Engineering Notebook
+- Excel Spreadsheet [Excel Spreadsheet](Gravity_Analysis.xlsx)
+- Data Visualization [Data Visualization](Gravity_Comparison.png)
+- Engineering Notes [Engineering Notes](Quantitative_Thinking_2_Engineering_Notebook.pdf)
 
 Author
 
